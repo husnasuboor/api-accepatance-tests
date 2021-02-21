@@ -1,0 +1,4 @@
+uk/kainos/acceptance/test/PostPayrollTest.class
+uk/kainos/utils/ReadConfig.class
+uk/kainos/utils/PayloadReaderUtil.class
+uk/kainos/acceptance/test/GetArticlesTest.class
